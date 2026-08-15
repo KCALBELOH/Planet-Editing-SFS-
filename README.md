@@ -3,6 +3,10 @@
 
 Corrections allowed
 
+Needed (seperately): Filexplorer, Zarchiver, Quickedit,
+
+Will be used : Txts, Filexplorer (and also seperately, quickedit, zarchiver).
+
 This is how to edit planets in sfs and stats explained :
 
 Go to SFS files (Spaceflight simulator - Spaceflight simulator game - spaceflight simulator data - custom solar systems - Solar System Name),
