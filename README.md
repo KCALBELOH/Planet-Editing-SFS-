@@ -1,6 +1,8 @@
 # Planet-Editing SFS
 (Probably means uncertain)
+
 Corrections allowed
+
 This is how to edit planets in sfs and stats explained :
 
 Go to SFS files (Spaceflight simulator - Spaceflight simulator game - spaceflight simulator data - custom solar systems - Solar System Name),
