@@ -46,6 +46,13 @@ parachutemultiplier : 1 means parachute can be deployed (non-fully) at 2500m, fu
 
 upperatmosphere : In percent above , how much the upper atmosphere is.
 
+heightdifficultyscale : Height, but theres seperate (ifs) for Realistic, hard gamemodes.
+
+shockwaveintensity : how intense it feels during entry to atmosphere, 1.0 means earth like.
+
+minheatingvelocitymultiplier : Yes, a long name anyway, 1.0 means earth like, how much minimally heat can transfer to a rocket.
+
+(ATMOSPHERE_VISUALS_DATA) - To be continued.
 
 
 
